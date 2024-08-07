@@ -1,5 +1,5 @@
 # MoodFlix: Your Mood-Based Movie Recommender
-<h3>Experience a seamless blend of technology & entertainment with MoodFlix -where your mood meets the perfect movie!</h3>
+<h4>Experience a seamless blend of technology & entertainment with MoodFlix -where your mood meets the perfect movie!</h4>
 
 ## Project Description
 
