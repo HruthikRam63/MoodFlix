@@ -1,5 +1,10 @@
 # MoodFlix: Your Mood-Based Movie Recommender
 
+## Project Description
+
+**MoodFlix** is an innovative movie recommendation system designed to enhance your movie-watching experience by analyzing your mood. By using sentiment analysis and webcam interactions, MoodFlix dynamically suggests movies tailored to your current emotional state. This project combines real-time mood detection with personalized movie recommendations to provide a unique and engaging user experience.
+
+
 ## Table of Contents
 <br clear="both">
 
@@ -14,10 +19,6 @@
 7. [Contact Information](#contact-information)
 8. [Screenshots](#screenshots)
 
-
-## Project Description
-
-**MoodFlix** is an innovative movie recommendation system designed to enhance your movie-watching experience by analyzing your mood. By using sentiment analysis and webcam interactions, MoodFlix dynamically suggests movies tailored to your current emotional state. This project combines real-time mood detection with personalized movie recommendations to provide a unique and engaging user experience.
 
 ## Requirements
 
