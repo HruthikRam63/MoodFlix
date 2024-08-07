@@ -86,18 +86,20 @@ For any questions or inquiries, please contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/hruthikram63)
 
 ## Screenshots
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <div style="flex: 1 1 calc(25% - 30px); max-width: calc(25% - 30px); border-radius: 15px; overflow: hidden;">
-        <img src="https://i.postimg.cc/j5Rw7PC9/Screenshot-2024-08-07-141911.png" alt="Screenshot 1" style="width: 100%; border-radius: 15px;"/>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 5px; justify-content: center;">
+    <div style="border-radius: 10px; overflow: hidden;">
+        <img src="https://i.postimg.cc/j5Rw7PC9/Screenshot-2024-08-07-141911.png" alt="Screenshot 1" style="width: 100%; border-radius: 10px;"/>
     </div>
-    <div style="flex: 1 1 calc(25% - 30px); max-width: calc(25% - 30px); border-radius: 15px; overflow: hidden;">
-        <img src="https://i.postimg.cc/hGBhkT8j/Screenshot-2024-08-07-141932.png" alt="Screenshot 2" style="width: 100%; border-radius: 15px;"/>
+    <div style="border-radius: 10px; overflow: hidden;">
+        <img src="https://i.postimg.cc/hGBhkT8j/Screenshot-2024-08-07-141932.png" alt="Screenshot 2" style="width: 100%; border-radius: 10px;"/>
     </div>
-    <div style="flex: 1 1 calc(25% - 30px); max-width: calc(25% - 30px); border-radius: 15px; overflow: hidden;">
-        <img src="https://i.postimg.cc/P5ktJhCV/Screenshot-2024-08-07-141947.png" alt="Screenshot 3" style="width: 100%; border-radius: 15px;"/>
+    <div style="border-radius: 10px; overflow: hidden;">
+        <img src="https://i.postimg.cc/P5ktJhCV/Screenshot-2024-08-07-141947.png" alt="Screenshot 3" style="width: 100%; border-radius: 10px;"/>
     </div>
-    <div style="flex: 1 1 calc(25% - 30px); max-width: calc(25% - 30px); border-radius: 15px; overflow: hidden;">
-        <img src="https://i.postimg.cc/RVtSvqZn/Screenshot-2024-08-07-142001.png" alt="Screenshot 4" style="width: 100%; border-radius: 15px;"/>
+    <div style="border-radius: 10px; overflow: hidden;">
+        <img src="https://i.postimg.cc/RVtSvqZn/Screenshot-2024-08-07-142001.png" alt="Screenshot 4" style="width: 100%; border-radius: 10px;"/>
+    </div>
+    <div style="border-radius: 10px; overflow: hidden;">
+        <img src="https://i.postimg.cc/T1pPV9xk/Screenshot-2024-08-07-142019.png" alt="Screenshot 5" style="width: 100%; border-radius: 10px;"/>
     </div>
 </div>
