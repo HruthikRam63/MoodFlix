@@ -1,16 +1,15 @@
 # MoodFlix: Your Mood-Based Movie Recommender
 
-
+## Table of Contents
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/267880611/original/05f1006f0d7f2e5bb75e059295eff2ee49249b15/sdsfd-dsfds-sdf-df.png"  />
+<img align="right" height="200" src="static/images/icon.jpeg" alt="MoodFlix Logo"  />
 
 ###
 
 
-## Table of Contents
 
 1. [Project Description](#project-description)
 2. [Requirements](#requirements)
