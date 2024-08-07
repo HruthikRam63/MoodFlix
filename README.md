@@ -106,7 +106,7 @@ For any questions or inquiries, please contact:
     </div>
 
     <div style="flex: 1; max-width: 300px; border-radius: 15px; overflow: hidden;">
-        <img src="https://i.postimg.cc/T1pPV9xk/Screenshot-2024-08-07-142019.png" alt="Screenshot 4" style="width: 100%; border-radius: 15px;"/>
+        <img src="https://i.postimg.cc/T1pPV9xk/Screenshot-2024-08-07-142019.png" alt="Screenshot 5" style="width: 100%; border-radius: 15px;"/>
     </div>
 
 </div>
