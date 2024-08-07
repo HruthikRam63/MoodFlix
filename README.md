@@ -89,9 +89,9 @@ For any questions or inquiries, please contact:
 ## Screenshots
 
 <p align="center">
-    <img src="https://i.postimg.cc/j5Rw7PC9/Screenshot-2024-08-07-141911.png" alt="Screenshot 1" width="150"/>
-    <img src="https://i.postimg.cc/hGBhkT8j/Screenshot-2024-08-07-141932.png" alt="Screenshot 2" width="150"/>
-    <img src="https://i.postimg.cc/P5ktJhCV/Screenshot-2024-08-07-141947.png" alt="Screenshot 3" width="150"/>
-    <img src="https://i.postimg.cc/RVtSvqZn/Screenshot-2024-08-07-142001.png" alt="Screenshot 4" width="150"/>
-    <img src="https://i.postimg.cc/T1pPV9xk/Screenshot-2024-08-07-142019.png" alt="Screenshot 5" width="150"/>
+    <img src="https://i.postimg.cc/j5Rw7PC9/Screenshot-2024-08-07-141911.png" alt="Screenshot 1" width="300"/>
+    <img src="https://i.postimg.cc/hGBhkT8j/Screenshot-2024-08-07-141932.png" alt="Screenshot 2" width="300"/>
+    <img src="https://i.postimg.cc/P5ktJhCV/Screenshot-2024-08-07-141947.png" alt="Screenshot 3" width="300"/>
+    <img src="https://i.postimg.cc/RVtSvqZn/Screenshot-2024-08-07-142001.png" alt="Screenshot 4" width="300"/>
+    <img src="https://i.postimg.cc/T1pPV9xk/Screenshot-2024-08-07-142019.png" alt="Screenshot 5" width="300"/>
 </p>
