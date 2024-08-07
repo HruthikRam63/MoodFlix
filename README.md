@@ -1,15 +1,9 @@
 # MoodFlix: Your Mood-Based Movie Recommender
 
 ## Table of Contents
-###
-
 <br clear="both">
 
 <img align="right" height="200" src="static/images/icon.jpeg" alt="MoodFlix Logo"  />
-
-###
-
-
 
 1. [Project Description](#project-description)
 2. [Requirements](#requirements)
