@@ -1,6 +1,5 @@
 # MoodFlix: Your Mood-Based Movie Recommender
 
-<img align="right" height="200" src="static/images/icon.jpeg" alt="MoodFlix Logo"  />
 
 
 
@@ -14,6 +13,8 @@
 6. [Further Development](#further-development)
 7. [Contact Information](#contact-information)
 8. [Screenshots](#screenshots)
+
+<img align="right" height="200" src="static/images/icon.jpeg" alt="MoodFlix Logo"  />
 
 ## Project Description
 
