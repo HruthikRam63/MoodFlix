@@ -86,7 +86,7 @@ For any questions or inquiries, please contact:
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/hruthikram63)
 
 ## Screenshots
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 5px; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; justify-content: center;">
     <div style="border-radius: 10px; overflow: hidden;">
         <img src="https://i.postimg.cc/j5Rw7PC9/Screenshot-2024-08-07-141911.png" alt="Screenshot 1" style="width: 100%; border-radius: 10px;"/>
     </div>
