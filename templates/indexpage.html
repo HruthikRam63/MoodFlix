@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoodFlix: Your Mood-Based Movie Recommender</title>
+    <!-- Link to CSS for fonts and styles -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:ital,wght@1,500&family=Forum&family=Publico:wght@400&family=FS+Me:wght@400&family=Diastema&family=Caudex&display=swap">
+    <!-- Link to Favicon -->
+    <link rel="icon" href="{{ url_for('static', filename='images/icon.jpeg') }}" type="image/x-icon">
+    <link rel="stylesheet" href="static/css/indexpage.css">
+    <script src="static/js/frontend.js" defer></script>
+    <script src="static/js/webcam.js" defer></script>
+</head>
+<body>
+    <!-- Popup for initial greeting -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <p>Hey, Hi Darling!! Let me check how's your mood today 🤔... hold a moment PAL!</p>
+            <button id="popup-ok">OK</button>
+        </div>
+    </div>
+
+    <!-- Webcam capture section -->
+    <div id="webcam" class="webcam-container hidden">
+        <video id="video" width="640" height="480" autoplay></video>
+        <button id="capture">Capture Mood</button>
+    </div>
+
+    <!-- Main content section -->
+    <div id="main-content" class="hidden">
+        <p id="moodMessage" class="mood-message">You seem to be <span id="userMood"></span>, watch these to embrace yourself.</p>
+        <div id="movieContainer" class="movie-container">
+            <!-- Movie items will be dynamically added here -->
+        </div>
+        <footer class="footer">
+            <p class="footer-note">I feel you as my chum! I always want to see you Joyful! Watch these movies and Cheer Up Buddy!!</p> 
+            <p class="footer-note">Don't forget that I'm your BFF and Cinema is our Love Language 😊🫶</p>
+        </footer>
+    </div>
+</body>
+</html>

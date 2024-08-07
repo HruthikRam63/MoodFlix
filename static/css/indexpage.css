@@ -1,0 +1,158 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif; /* Default font for general text */
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Font Styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500; /* Medium weight for Playfair Display */
+}
+
+p {
+    font-family: 'Publico', serif;
+}
+
+/* Popup Styles */
+.popup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: 'Forum', serif; /* Stylish font for popup content */
+}
+
+#popup-ok {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'FS Me', serif;
+    transition: background-color 0.3s;
+}
+
+#popup-ok:hover {
+    background-color: #45a049;
+}
+
+/* Webcam Styles */
+.webcam-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#video {
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+#capture {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-family: 'Diastema', serif;
+    transition: background-color 0.3s;
+}
+
+#capture:hover {
+    background-color: #45a049;
+}
+
+/* Main Content Styles */
+.hidden {
+    display: none;
+}
+
+.mood-message {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+    font-family: 'Caudex', serif;
+}
+
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movie {
+    width: 250px;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Publico', serif;
+    transition: transform 0.3s;
+}
+
+.movie:hover {
+    transform: scale(1.05);
+}
+
+.movie img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.movie p {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Diastema', serif;
+}
+
+/* Movie Details Styles */
+.movie-details {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Caudex', serif;
+}
+
+.movie-details img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+/* Footer Styles */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    
+    bottom: 0;
+    width: 100%;
+    font-family: 'FS Me', serif;
+}

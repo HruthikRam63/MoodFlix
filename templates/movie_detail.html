@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ movie.title }} - MoodFlix</title>
+    <!-- Link to CSS for fonts and styles -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:ital,wght@1,500&family=Forum&family=Publico:wght@400&family=FS+Me:wght@400&family=Diastema&family=Caudex&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .movie-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5em;
+            text-align: center;
+            color: #222;
+            margin-bottom: 20px;
+        }
+        .movie-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .movie-image {
+            width: 40%;
+            max-width: 300px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            margin-right: 20px;
+        }
+        .movie-description {
+            font-family: 'Publico', serif;
+            font-size: 1.2em;
+            color: #333;
+            flex: 1;
+        }
+        .back-link {
+            font-family: 'Forum', serif;
+            font-size: 1.1em;
+            text-align: center;
+            display: block;
+            margin: 20px auto;
+            color: #4CAF50;
+            text-decoration: none;
+            border: 2px solid #4CAF50;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            width: fit-content;
+        }
+        .back-link:hover {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="movie-title">{{ movie.title }}</h1>
+        <div class="movie-content">
+            <img src="{{ movie.image }}" alt="{{ movie.title }}" class="movie-image">
+            <p class="movie-description">{{ movie.description }}</p>
+        </div>
+        <a href="/" class="back-link">Back to Home</a>
+    </div>
+</body>
+</html>
